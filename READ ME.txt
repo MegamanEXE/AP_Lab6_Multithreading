@@ -1,0 +1,5 @@
+Hamza Masud
+BS(CS)-3A
+Reg#4582
+
+Everything works as expected. Everything is threaded but I did not attempt the optional parts. Each directory spawns a new thread to dig deeper. Each thread also calls indexer and searching threads and a file is maintained as well as a hashmap
